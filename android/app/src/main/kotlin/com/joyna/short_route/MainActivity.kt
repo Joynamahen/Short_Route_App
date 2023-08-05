@@ -1,0 +1,6 @@
+package com.joyna.short_route
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "375641178917",
+    "firebase_url": "https://kdyfsdf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kdyfsdf",
+    "storage_bucket": "kdyfsdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375641178917:android:2583d05939975c65e150cc",
+        "android_client_info": {
+          "package_name": "com.joyna.short_route"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375641178917-2v3bo73nqkc7csuogoelj5lktk9uh3sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyna.short_route",
+            "certificate_hash": "5f5a32dbf17638c47466ef5fae9b69df70ac6870"
+          }
+        },
+        {
+          "client_id": "375641178917-bk9ooa3vh0e4a7c8ef4k9b71ofp1us50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyna.short_route",
+            "certificate_hash": "61b50e07ac6f86a61f7d9a69adc1f1b9c3c8a4f1"
+          }
+        },
+        {
+          "client_id": "375641178917-grp66qfgsbts4jrbek96tqd9c1nqjf3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyna.short_route",
+            "certificate_hash": "6bd4fb36b6b7ad1ba267eba25a055247189ad7aa"
+          }
+        },
+        {
+          "client_id": "375641178917-ilcq9u7862l2j8e7o2evkr9qcebrfj6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyna.short_route",
+            "certificate_hash": "a8b26994fdd0cbe131d95214c791a76ab518debb"
+          }
+        },
+        {
+          "client_id": "375641178917-masoe2ra8dgcisdeajoveflc3p33ooh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyna.short_route",
+            "certificate_hash": "de22e3aac091296d982581be6554194a90394579"
+          }
+        },
+        {
+          "client_id": "375641178917-tqeou8af6b7am2huuhn8opmg6tpetimj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTZsgLZjFQs26_G0CPDEmU0EpJW_cQNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375641178917-cgoh469s0s8166hi5c7kcq7mlmr2djp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
